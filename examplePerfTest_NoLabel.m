@@ -13,7 +13,7 @@ classdef examplePerfTest_NoLabel < matlab.perftest.TestCase
             testCase.stopMeasuring()
             testCase.verifyTrue(isdiag(S))
             testCase.verifyTrue(issorted(diag(S),'descend'))
-            testCase.verifySize(S,[sz sz 1])
+            testCase.verifySize(S,[sz sz])
         end
     end
 end
