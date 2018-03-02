@@ -21,22 +21,24 @@ classdef MeasurementResultToJMeterOutputConverter < handle
             testResultsNode = docNode.getDocumentElement;
             testResultsNode.setAttribute('version','1.2');
             
-            currTest = result(1); % TODO
-            sampleTable = currTest.Samples; 
-            nrows = size(sampleTable,1);
-            for idx = 1:nrows
-                curr_node = docNode.createElement('sample');
-                
-                measuredValue = string(floor(sampleTable{idx, 'MeasuredTime'}*1000)); % TODO
-                name = string(currTest.Name);
-                timestamp = string(posixtime(sampleTable{idx, 'Timestamp'})*1000);
-                status = string(currTest.Valid);
-                
-                curr_node.setAttribute('t', measuredValue);
-                curr_node.setAttribute('lb', name);
-                curr_node.setAttribute('ts', timestamp);
-                curr_node.setAttribute('s', status);
-                testResultsNode.appendChild(curr_node);
+            for idx = 1:length(result)
+                currTest = result(idx); % TODO
+                sampleTable = currTest.Samples;
+                nrows = size(sampleTable,1);
+                for idr = 1:nrows
+                    curr_node = docNode.createElement('sample');
+                    
+                    measuredValue = string(floor(sampleTable{idr, 'MeasuredTime'}*1000)); % TODO
+                    name = string(sampleTable{idr, 'Name'});
+                    timestamp = string(posixtime(sampleTable{idr, 'Timestamp'})*1000);
+                    status = string(currTest.Valid);
+                    
+                    curr_node.setAttribute('t', measuredValue);
+                    curr_node.setAttribute('lb', name);
+                    curr_node.setAttribute('ts', timestamp);
+                    curr_node.setAttribute('s', status);
+                    testResultsNode.appendChild(curr_node);
+                end
             end
             
             xmlwrite(filename, docNode);
