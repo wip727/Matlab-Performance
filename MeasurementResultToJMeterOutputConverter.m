@@ -27,7 +27,7 @@ classdef MeasurementResultToJMeterOutputConverter < handle
             for idx = 1:nrows
                 curr_node = docNode.createElement('sample');
                 
-                measuredValue = string(sampleTable{idx, 'MeasuredTime'}*1000); % TODO
+                measuredValue = string(floor(sampleTable{idx, 'MeasuredTime'}*1000)); % TODO
                 name = string(currTest.Name);
                 timestamp = string(posixtime(sampleTable{idx, 'Timestamp'})*1000);
                 status = string(currTest.Valid);
