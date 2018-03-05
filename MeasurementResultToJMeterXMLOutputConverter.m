@@ -10,8 +10,7 @@ classdef MeasurementResultToJMeterXMLOutputConverter < MeasurementResultConverte
     
     methods
         function set.Filename(plugin, filename)
-            import matlab.unittest.internal.newFileResolver;
-            plugin.Filename = newFileResolver(filename);
+            plugin.Filename = filename;
         end
         
         function set.MeasResult(converter, result)
