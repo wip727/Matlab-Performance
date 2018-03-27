@@ -5,10 +5,9 @@ function convertMeasurementResultToJMeterXML(result, filename)
 %
 % Copyright 2018 The MathWorks, Inc.
 
-import matlab.unittest.internal.newFileResolver;
 
 % Validate inputs
-outputFile = newFileResolver(filename, '.xml');
+outputFile = filename;
 
 % Initialize xml DOM
 docNode = com.mathworks.xml.XMLUtils.createDocument('testResults');
