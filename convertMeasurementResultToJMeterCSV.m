@@ -9,7 +9,7 @@ function convertMeasurementResultToJMeterCSV(result, filename)
 import matlab.unittest.internal.newFileResolver;
 
 % Validate inputs
-outputFile = newFileResolver(filename, '.csv');
+outputFile = filename;
 
 samplesTable = vertcat(result.Samples);
 nrows = size(samplesTable, 1);
