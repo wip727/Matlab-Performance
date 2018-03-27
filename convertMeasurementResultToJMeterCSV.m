@@ -7,13 +7,9 @@ function convertMeasurementResultToJMeterCSV(result, filename)
 % Copyright 2018 The MathWorks, Inc.
 
 import matlab.unittest.internal.newFileResolver;
-import matlab.unittest.measurement.internal.validateMeasuredVariable;
 
 % Validate inputs
-validateattributes(result, {'matlab.unittest.measurement.MeasurementResult'}, {});
 outputFile = newFileResolver(filename, '.csv');
-
-validateMeasuredVariable(result, {'MeasuredTime'});
 
 samplesTable = vertcat(result.Samples);
 nrows = size(samplesTable, 1);
