@@ -6,8 +6,6 @@ function convertMeasurementResultToJMeterCSV(result, filename)
 %
 % Copyright 2018 The MathWorks, Inc.
 
-import matlab.unittest.internal.newFileResolver;
-
 % Validate inputs
 outputFile = filename;
 
