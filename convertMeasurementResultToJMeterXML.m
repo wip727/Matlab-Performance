@@ -6,13 +6,9 @@ function convertMeasurementResultToJMeterXML(result, filename)
 % Copyright 2018 The MathWorks, Inc.
 
 import matlab.unittest.internal.newFileResolver;
-import matlab.unittest.measurement.internal.validateMeasuredVariable;
 
 % Validate inputs
-validateattributes(result, {'matlab.unittest.measurement.MeasurementResult'}, {});
 outputFile = newFileResolver(filename, '.xml');
-
-validateMeasuredVariable(result, {'MeasuredTime'});
 
 % Initialize xml DOM
 docNode = com.mathworks.xml.XMLUtils.createDocument('testResults');
