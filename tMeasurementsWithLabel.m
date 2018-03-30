@@ -25,23 +25,11 @@ classdef tMeasurementsWithLabel < matlab.perftest.TestCase & matlabtest.measurem
             testCase.stopMeasuring();
         end
         
-        function test0444(testCase)
-            % log-measured
-            import matlabtest.perftest.TimeMeasurement;
-            testCase.logMeasurement(TimeMeasurement(.0444));
-        end
-        
         function testNatick_456(testCase)
             % self-measured, with tag
             testCase.startMeasuring("Natick");
             pause(.0456);
             testCase.stopMeasuring("Natick");
-        end
-        
-        function testNatick_2017(testCase)
-            % log-measured, with tag
-            import matlabtest.perftest.TimeMeasurement;
-            testCase.logMeasurement(TimeMeasurement(.2017),"Framingham");
         end
         
         function testPi_31416(testCase)
@@ -57,21 +45,6 @@ classdef tMeasurementsWithLabel < matlab.perftest.TestCase & matlabtest.measurem
             testCase.startMeasuring('Pi');
             pause(.00416);
             testCase.stopMeasuring('Pi');
-        end
-        
-        function testOlympic(testCase)
-            % multiple measurements, multiple tags
-            import matlabtest.perftest.TimeMeasurement;
-            
-            % Usain Bolt's record
-            t100 = 9.58;
-            t200 = 19.19;
-            
-            testCase.logMeasurement(TimeMeasurement(t100),'UB_100m');
-            testCase.logMeasurement(TimeMeasurement(t200),'UB_200m');
-            
-            % Ratio, nearly 2:1
-            testCase.logMeasurement(TimeMeasurement(t200/t100),'Ratio');
         end
         
         function testMean(testCase,Size)
@@ -101,9 +74,6 @@ classdef tMeasurementsWithLabel < matlab.perftest.TestCase & matlabtest.measurem
         
         function testPrecision(testCase,N)
             % filter whole testpoint if one measurement is too fast
-            import matlabtest.perftest.TimeMeasurement;
-            testCase.logMeasurement(TimeMeasurement(1));
-            
             testCase.startMeasuring('fast');
             for i = 1 : N
                 1+1; %#ok<VUNUS>
@@ -130,30 +100,11 @@ classdef tMeasurementsWithLabel < matlab.perftest.TestCase & matlabtest.measurem
             testCase.stopMeasuring('_tag');
         end
         
-        function testLogIllegalTag(testCase)
-            import matlabtest.perftest.TimeMeasurement;
-            testCase.logMeasurement(TimeMeasurement(42),42);
-        end
-        
         function testUnmatchingTag(testCase)
             testCase.startMeasuring('a');
             testCase.stopMeasuring('b');
         end
         
-        function testFrequentist(testCase)
-            import matlabtest.perftest.TimeMeasurement
-            testCase.startMeasuring();
-            pause(.001);
-            testCase.stopMeasuring();
-            testCase.logMeasurement(TimeMeasurement(1),'logged');
-        end
-        
-        function testdiff(testCase)
-            import matlabtest.perftest.TimeMeasurement
-            on = 0.5;
-            off = 0.5;
-            testCase.logMeasurement(TimeMeasurement(on-off),'diff');
-        end
     end
     
 end
