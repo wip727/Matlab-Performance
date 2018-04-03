@@ -27,24 +27,16 @@ classdef tMeasurementsWithLabel < matlab.perftest.TestCase
         
         function testNatick_456(testCase)
             % self-measured, with tag
-            testCase.startMeasuring("Natick");
+            testCase.startMeasuring();
             pause(.0456);
-            testCase.stopMeasuring("Natick");
+            testCase.stopMeasuring();
         end
         
         function testPi_31416(testCase)
             % multiple measurements, one tag
-            testCase.startMeasuring('Pi');
+            testCase.startMeasuring();
             pause(.3);
-            testCase.stopMeasuring('Pi');
-            
-            testCase.startMeasuring('Pi');
-            pause(.01);
-            testCase.stopMeasuring('Pi');
-            
-            testCase.startMeasuring('Pi');
-            pause(.00416);
-            testCase.stopMeasuring('Pi');
+            testCase.stopMeasuring();
         end
         
         function testMean(testCase,Size)
@@ -57,52 +49,14 @@ classdef tMeasurementsWithLabel < matlab.perftest.TestCase
             testCase.stopMeasuring;
             
             % new algorithm, append author's Name
-            testCase.startMeasuring('ChangQingsAlgorithm');
+            testCase.startMeasuring();
             m = myMean(M); %#ok<NASGU>
-            testCase.stopMeasuring('ChangQingsAlgorithm');
-        end
-        
-        function testLoop(testCase)
-            % multiple measurements, multiple tags
-            for i = 1:10
-                tag = ['L',num2str(i)];
-                testCase.startMeasuring(tag);
-                pause(i/1000);
-                testCase.stopMeasuring(tag);
-            end
-        end
-        
-        function testPrecision(testCase,N)
-            % filter whole testpoint if one measurement is too fast
-            testCase.startMeasuring('fast');
-            for i = 1 : N
-                1+1; %#ok<VUNUS>
-            end
-            testCase.stopMeasuring('fast');
-            
-            testCase.startMeasuring('faster');
-            % Do Nothing
-            for i = 1 : N/2
-                1+1; %#ok<VUNUS>
-            end
-            testCase.stopMeasuring('faster');
-            
-            testCase.startMeasuring('fastest');
-            % Do Nothing
-            for i = 1 : N/4
-                1+1; %#ok<VUNUS>
-            end
-            testCase.stopMeasuring('fastest');
+            testCase.stopMeasuring();
         end
         
         function testIllegalTag(testCase)
             testCase.startMeasuring('tag');
             testCase.stopMeasuring('_tag');
-        end
-        
-        function testUnmatchingTag(testCase)
-            testCase.startMeasuring('a');
-            testCase.stopMeasuring('b');
         end
         
     end
