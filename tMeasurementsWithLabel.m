@@ -1,4 +1,4 @@
-classdef tMeasurementsWithLabel < matlab.perftest.TestCase & matlabtest.measurement.MeasurementLoggable
+classdef tMeasurementsWithLabel < matlab.perftest.TestCase
     % Copyright 2017 The MathWorks, Inc.
     
     properties(TestParameter)
