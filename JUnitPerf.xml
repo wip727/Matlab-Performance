@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+   <testcase name="tMeasurementsWithLabel/testImplicit123" s="true" time="12"/>
+   <testcase name="tMeasurementsWithLabel/testImplicit123" s="true" time="13"/>
+   <testcase name="tMeasurementsWithLabel/testImplicit123" s="true" time="12"/>
+   <testcase name="tMeasurementsWithLabel/testImplicit123" s="true" time="12"/>
+   <testcase name="tMeasurementsWithLabel/test0333" s="true" time="34"/>
+   <testcase name="tMeasurementsWithLabel/test0333" s="true" time="33"/>
+   <testcase name="tMeasurementsWithLabel/test0333" s="true" time="33"/>
+   <testcase name="tMeasurementsWithLabel/test0333" s="true" time="33"/>
+   <testcase name="tMeasurementsWithLabel/test0444" s="true" time="44"/>
+   <testcase name="tMeasurementsWithLabel/test0444" s="true" time="44"/>
+   <testcase name="tMeasurementsWithLabel/test0444" s="true" time="44"/>
+   <testcase name="tMeasurementsWithLabel/test0444" s="true" time="44"/>
+   <testcase name="tMeasurementsWithLabel/testNatick_456 &lt;Natick&gt;" s="true" time="49"/>
+   <testcase name="tMeasurementsWithLabel/testNatick_456 &lt;Natick&gt;" s="true" time="46"/>
+   <testcase name="tMeasurementsWithLabel/testNatick_456 &lt;Natick&gt;" s="true" time="47"/>
+   <testcase name="tMeasurementsWithLabel/testNatick_456 &lt;Natick&gt;" s="true" time="46"/>
+   <testcase name="tMeasurementsWithLabel/testNatick_2017 &lt;Framingham&gt;" s="true" time="201"/>
+   <testcase name="tMeasurementsWithLabel/testNatick_2017 &lt;Framingham&gt;" s="true" time="201"/>
+   <testcase name="tMeasurementsWithLabel/testNatick_2017 &lt;Framingham&gt;" s="true" time="201"/>
+   <testcase name="tMeasurementsWithLabel/testNatick_2017 &lt;Framingham&gt;" s="true" time="201"/>
+   <testcase name="tMeasurementsWithLabel/testPi_31416 &lt;Pi&gt;" s="true" time="318"/>
+   <testcase name="tMeasurementsWithLabel/testPi_31416 &lt;Pi&gt;" s="true" time="315"/>
+   <testcase name="tMeasurementsWithLabel/testPi_31416 &lt;Pi&gt;" s="true" time="315"/>
+   <testcase name="tMeasurementsWithLabel/testPi_31416 &lt;Pi&gt;" s="true" time="315"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;UB_100m&gt;" s="true" time="9580"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;UB_100m&gt;" s="true" time="9580"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;UB_100m&gt;" s="true" time="9580"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;UB_100m&gt;" s="true" time="9580"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;UB_200m&gt;" s="true" time="19190"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;UB_200m&gt;" s="true" time="19190"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;UB_200m&gt;" s="true" time="19190"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;UB_200m&gt;" s="true" time="19190"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;Ratio&gt;" s="true" time="2003"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;Ratio&gt;" s="true" time="2003"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;Ratio&gt;" s="true" time="2003"/>
+   <testcase name="tMeasurementsWithLabel/testOlympic &lt;Ratio&gt;" s="true" time="2003"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1)" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="80"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="77"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="77"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="77"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="75"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="75"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="76"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="81"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="76"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="76"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="76"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="75"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="76"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="75"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="75"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="82"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="85"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="86"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="85"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="103"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="85"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="96"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="86"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="87"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="87"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="86"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="85"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="112"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="83"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="86"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="86"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" s="true" time="81"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2)" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="441"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="374"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="385"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="389"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="376"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="411"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="379"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="382"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="376"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="377"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="393"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="388"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="382"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="391"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="390"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="381"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="379"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="462"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="437"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="394"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="386"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="410"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="394"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="403"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="377"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="382"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="374"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="446"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="411"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="402"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="424"/>
+   <testcase name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" s="true" time="392"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="2"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" s="true" time="3"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L4&gt;" s="true" time="4"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L5&gt;" s="true" time="5"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L6&gt;" s="true" time="6"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L7&gt;" s="true" time="7"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L8&gt;" s="true" time="8"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" s="true" time="9"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="11"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" s="true" time="10"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1)" s="false" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1)" s="false" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1)" s="false" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1)" s="false" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;fast&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;fast&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;fast&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;fast&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;faster&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;faster&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;faster&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;faster&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;fastest&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;fastest&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;fastest&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value1) &lt;fastest&gt;" s="false" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2)" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2)" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2)" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2)" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2)" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2)" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2)" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fast&gt;" s="true" time="64"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fast&gt;" s="true" time="66"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fast&gt;" s="true" time="64"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fast&gt;" s="true" time="64"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fast&gt;" s="true" time="65"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fast&gt;" s="true" time="65"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fast&gt;" s="true" time="65"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" s="true" time="32"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" s="true" time="37"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" s="true" time="32"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" s="true" time="32"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" s="true" time="32"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" s="true" time="32"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" s="true" time="33"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fastest&gt;" s="true" time="16"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fastest&gt;" s="true" time="16"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fastest&gt;" s="true" time="16"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fastest&gt;" s="true" time="16"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fastest&gt;" s="true" time="16"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fastest&gt;" s="true" time="16"/>
+   <testcase name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fastest&gt;" s="true" time="16"/>
+   <testcase name="tMeasurementsWithLabel/testIllegalTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testIllegalTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testIllegalTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testIllegalTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testLogIllegalTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testLogIllegalTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testLogIllegalTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testLogIllegalTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testUnmatchingTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testUnmatchingTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testUnmatchingTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testUnmatchingTag" s="false" time="NaN"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist" s="true" time="1"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" s="true" time="1000"/>
+   <testcase name="tMeasurementsWithLabel/testdiff &lt;diff&gt;" s="true" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testdiff &lt;diff&gt;" s="true" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testdiff &lt;diff&gt;" s="true" time="0"/>
+   <testcase name="tMeasurementsWithLabel/testdiff &lt;diff&gt;" s="true" time="0"/>
+</testsuites>
