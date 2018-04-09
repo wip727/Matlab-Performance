@@ -5,6 +5,8 @@ function convertToJUnitXML(result, filename)
 %
 % Copyright 2018 The MathWorks, Inc.
 
+outputFile = filename;
+
 % Initialize xml DOM
 docNode = com.mathworks.xml.XMLUtils.createDocument('testsuites');
 testResultsNode = docNode.getDocumentElement;
