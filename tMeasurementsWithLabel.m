@@ -59,6 +59,9 @@ classdef tMeasurementsWithLabel < matlab.perftest.TestCase
             testCase.stopMeasuring('_tag');
         end
         
+        function testFiltered(testCase)
+            % An empty performance test
+        end
     end
     
 end
