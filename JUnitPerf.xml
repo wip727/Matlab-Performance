@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <testsuites>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testImplicit123" skipped="0" tests="4" time="0.050703" timestamp="1519986937513">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testImplicit123" skipped="0" tests="4" time="0.050703" timestamp="2018-03-02T10:35:37">
       <testcase classname="tMeasurementsWithLabel/testImplicit123" name="tMeasurementsWithLabel/testImplicit123" time="0.012728"/>
       <testcase classname="tMeasurementsWithLabel/testImplicit123" name="tMeasurementsWithLabel/testImplicit123" time="0.013199"/>
       <testcase classname="tMeasurementsWithLabel/testImplicit123" name="tMeasurementsWithLabel/testImplicit123" time="0.012341"/>
       <testcase classname="tMeasurementsWithLabel/testImplicit123" name="tMeasurementsWithLabel/testImplicit123" time="0.012435"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/test0333" skipped="0" tests="4" time="0.14401" timestamp="1519986937897">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/test0333" skipped="0" tests="4" time="0.14401" timestamp="2018-03-02T10:35:37">
       <testcase classname="tMeasurementsWithLabel/test0333" name="tMeasurementsWithLabel/test0333" time="0.034297"/>
       <testcase classname="tMeasurementsWithLabel/test0333" name="tMeasurementsWithLabel/test0333" time="0.033477"/>
       <testcase classname="tMeasurementsWithLabel/test0333" name="tMeasurementsWithLabel/test0333" time="0.033518"/>
       <testcase classname="tMeasurementsWithLabel/test0333" name="tMeasurementsWithLabel/test0333" time="0.033571"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/test0444" skipped="0" tests="4" time="0.016645" timestamp="1519986938229">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/test0444" skipped="0" tests="4" time="0.016645" timestamp="2018-03-02T10:35:38">
       <testcase classname="tMeasurementsWithLabel/test0444" name="tMeasurementsWithLabel/test0444" time="0.0444"/>
       <testcase classname="tMeasurementsWithLabel/test0444" name="tMeasurementsWithLabel/test0444" time="0.0444"/>
       <testcase classname="tMeasurementsWithLabel/test0444" name="tMeasurementsWithLabel/test0444" time="0.0444"/>
       <testcase classname="tMeasurementsWithLabel/test0444" name="tMeasurementsWithLabel/test0444" time="0.0444"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testNatick_456" skipped="0" tests="4" time="0.20384" timestamp="1519986938707">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testNatick_456" skipped="0" tests="4" time="0.20384" timestamp="2018-03-02T10:35:38">
       <testcase classname="tMeasurementsWithLabel/testNatick_456" name="tMeasurementsWithLabel/testNatick_456 &lt;Natick&gt;" time="0.049332"/>
       <testcase classname="tMeasurementsWithLabel/testNatick_456" name="tMeasurementsWithLabel/testNatick_456 &lt;Natick&gt;" time="0.046211"/>
       <testcase classname="tMeasurementsWithLabel/testNatick_456" name="tMeasurementsWithLabel/testNatick_456 &lt;Natick&gt;" time="0.047696"/>
       <testcase classname="tMeasurementsWithLabel/testNatick_456" name="tMeasurementsWithLabel/testNatick_456 &lt;Natick&gt;" time="0.046597"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testNatick_2017" skipped="0" tests="4" time="0.0094608" timestamp="1519986939040">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testNatick_2017" skipped="0" tests="4" time="0.0094608" timestamp="2018-03-02T10:35:39">
       <testcase classname="tMeasurementsWithLabel/testNatick_2017" name="tMeasurementsWithLabel/testNatick_2017 &lt;Framingham&gt;" time="0.2017"/>
       <testcase classname="tMeasurementsWithLabel/testNatick_2017" name="tMeasurementsWithLabel/testNatick_2017 &lt;Framingham&gt;" time="0.2017"/>
       <testcase classname="tMeasurementsWithLabel/testNatick_2017" name="tMeasurementsWithLabel/testNatick_2017 &lt;Framingham&gt;" time="0.2017"/>
       <testcase classname="tMeasurementsWithLabel/testNatick_2017" name="tMeasurementsWithLabel/testNatick_2017 &lt;Framingham&gt;" time="0.2017"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testPi_31416" skipped="0" tests="4" time="1.2963" timestamp="1519986940869">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testPi_31416" skipped="0" tests="4" time="1.2963" timestamp="2018-03-02T10:35:40">
       <testcase classname="tMeasurementsWithLabel/testPi_31416" name="tMeasurementsWithLabel/testPi_31416 &lt;Pi&gt;" time="0.31889"/>
       <testcase classname="tMeasurementsWithLabel/testPi_31416" name="tMeasurementsWithLabel/testPi_31416 &lt;Pi&gt;" time="0.31548"/>
       <testcase classname="tMeasurementsWithLabel/testPi_31416" name="tMeasurementsWithLabel/testPi_31416 &lt;Pi&gt;" time="0.31578"/>
       <testcase classname="tMeasurementsWithLabel/testPi_31416" name="tMeasurementsWithLabel/testPi_31416 &lt;Pi&gt;" time="0.31551"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testOlympic" skipped="0" tests="12" time="0.052133" timestamp="1519986942136">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testOlympic" skipped="0" tests="12" time="0.052133" timestamp="2018-03-02T10:35:42">
       <testcase classname="tMeasurementsWithLabel/testOlympic" name="tMeasurementsWithLabel/testOlympic &lt;UB_100m&gt;" time="9.58"/>
       <testcase classname="tMeasurementsWithLabel/testOlympic" name="tMeasurementsWithLabel/testOlympic &lt;UB_200m&gt;" time="19.19"/>
       <testcase classname="tMeasurementsWithLabel/testOlympic" name="tMeasurementsWithLabel/testOlympic &lt;Ratio&gt;" time="2.0031"/>
@@ -50,7 +50,7 @@
       <testcase classname="tMeasurementsWithLabel/testOlympic" name="tMeasurementsWithLabel/testOlympic &lt;UB_200m&gt;" time="19.19"/>
       <testcase classname="tMeasurementsWithLabel/testOlympic" name="tMeasurementsWithLabel/testOlympic &lt;Ratio&gt;" time="2.0031"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testMean(Size=value1)" skipped="0" tests="64" time="8.2988" timestamp="1519986942982">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testMean(Size=value1)" skipped="0" tests="64" time="8.2988" timestamp="2018-03-02T10:35:42">
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value1)" name="tMeasurementsWithLabel/testMean(Size=value1)" time="0.0045468"/>
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value1)" name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" time="0.08009"/>
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value1)" name="tMeasurementsWithLabel/testMean(Size=value1)" time="0.0021715"/>
@@ -116,7 +116,7 @@
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value1)" name="tMeasurementsWithLabel/testMean(Size=value1)" time="0.0021351"/>
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value1)" name="tMeasurementsWithLabel/testMean(Size=value1) &lt;ChangQingsAlgorithm&gt;" time="0.081894"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testMean(Size=value2)" skipped="0" tests="64" time="36.34" timestamp="1519986950245">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testMean(Size=value2)" skipped="0" tests="64" time="36.34" timestamp="2018-03-02T10:35:50">
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value2)" name="tMeasurementsWithLabel/testMean(Size=value2)" time="0.007674"/>
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value2)" name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" time="0.44101"/>
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value2)" name="tMeasurementsWithLabel/testMean(Size=value2)" time="0.0076174"/>
@@ -182,7 +182,7 @@
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value2)" name="tMeasurementsWithLabel/testMean(Size=value2)" time="0.0081344"/>
       <testcase classname="tMeasurementsWithLabel/testMean(Size=value2)" name="tMeasurementsWithLabel/testMean(Size=value2) &lt;ChangQingsAlgorithm&gt;" time="0.39202"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testLoop" skipped="0" tests="320" time="22.5345" timestamp="1519986969497">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testLoop" skipped="0" tests="320" time="22.5345" timestamp="2018-03-02T10:36:09">
       <testcase classname="tMeasurementsWithLabel/testLoop" name="tMeasurementsWithLabel/testLoop &lt;L1&gt;" time="0.0010885"/>
       <testcase classname="tMeasurementsWithLabel/testLoop" name="tMeasurementsWithLabel/testLoop &lt;L2&gt;" time="0.0020765"/>
       <testcase classname="tMeasurementsWithLabel/testLoop" name="tMeasurementsWithLabel/testLoop &lt;L3&gt;" time="0.0030759"/>
@@ -504,7 +504,7 @@
       <testcase classname="tMeasurementsWithLabel/testLoop" name="tMeasurementsWithLabel/testLoop &lt;L9&gt;" time="0.0091523"/>
       <testcase classname="tMeasurementsWithLabel/testLoop" name="tMeasurementsWithLabel/testLoop &lt;L10&gt;" time="0.010086"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testPrecision(N=value1)" skipped="16" tests="16" time="0.096251" timestamp="1519986974840">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testPrecision(N=value1)" skipped="16" tests="16" time="0.096251" timestamp="2018-03-02T10:36:14">
       <testcase classname="tMeasurementsWithLabel/testPrecision(N=value1)" name="tMeasurementsWithLabel/testPrecision(N=value1)" time="1">
          <skipped>An assumption was not met in tMeasurementsWithLabel/testPrecision(N=value1) and it filtered the remainder of the test.
 
@@ -874,7 +874,7 @@
     The test code needs to measure a larger MeasuredTime.</skipped>
       </testcase>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testPrecision(N=value2)" skipped="0" tests="28" time="3.3607" timestamp="1519986975830">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testPrecision(N=value2)" skipped="0" tests="28" time="3.3607" timestamp="2018-03-02T10:36:15">
       <testcase classname="tMeasurementsWithLabel/testPrecision(N=value2)" name="tMeasurementsWithLabel/testPrecision(N=value2)" time="1"/>
       <testcase classname="tMeasurementsWithLabel/testPrecision(N=value2)" name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fast&gt;" time="0.064563"/>
       <testcase classname="tMeasurementsWithLabel/testPrecision(N=value2)" name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" time="0.032923"/>
@@ -904,7 +904,7 @@
       <testcase classname="tMeasurementsWithLabel/testPrecision(N=value2)" name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;faster&gt;" time="0.03303"/>
       <testcase classname="tMeasurementsWithLabel/testPrecision(N=value2)" name="tMeasurementsWithLabel/testPrecision(N=value2) &lt;fastest&gt;" time="0.016534"/>
    </testsuite>
-   <testsuite errors="4" failures="0" name="tMeasurementsWithLabel/testIllegalTag" skipped="0" tests="4" time="0.0060442" timestamp="NaN">
+   <testsuite errors="4" failures="0" name="tMeasurementsWithLabel/testIllegalTag" skipped="0" tests="4" time="0.0060442" timestamp="">
       <testcase classname="tMeasurementsWithLabel/testIllegalTag" name="tMeasurementsWithLabel/testIllegalTag" time="NaN">
          <error>Error occurred in tMeasurementsWithLabel/testIllegalTag and it did not run to completion.
 
@@ -1370,7 +1370,7 @@
     results = experiment.run(suites);</error>
       </testcase>
    </testsuite>
-   <testsuite errors="4" failures="0" name="tMeasurementsWithLabel/testLogIllegalTag" skipped="0" tests="4" time="0.0058119" timestamp="NaN">
+   <testsuite errors="4" failures="0" name="tMeasurementsWithLabel/testLogIllegalTag" skipped="0" tests="4" time="0.0058119" timestamp="">
       <testcase classname="tMeasurementsWithLabel/testLogIllegalTag" name="tMeasurementsWithLabel/testLogIllegalTag" time="NaN">
          <error>Error occurred in tMeasurementsWithLabel/testLogIllegalTag and it did not run to completion.
 
@@ -1876,7 +1876,7 @@
     results = experiment.run(suites);</error>
       </testcase>
    </testsuite>
-   <testsuite errors="0" failures="4" name="tMeasurementsWithLabel/testUnmatchingTag" skipped="0" tests="4" time="0.0070623" timestamp="NaN">
+   <testsuite errors="0" failures="4" name="tMeasurementsWithLabel/testUnmatchingTag" skipped="0" tests="4" time="0.0070623" timestamp="">
       <testcase classname="tMeasurementsWithLabel/testUnmatchingTag" name="tMeasurementsWithLabel/testUnmatchingTag" time="NaN">
          <failure type="AssertionFailure">Assertion failed in tMeasurementsWithLabel/testUnmatchingTag and it did not run to completion.
 
@@ -1910,7 +1910,7 @@
     tMeasurementsWithLabel/testUnmatchingTag attempted to record measurements in an unsupported manner.</failure>
       </testcase>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testFrequentist" skipped="0" tests="22" time="0.078486" timestamp="1519986978601">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testFrequentist" skipped="0" tests="22" time="0.078486" timestamp="2018-03-02T10:36:18">
       <testcase classname="tMeasurementsWithLabel/testFrequentist" name="tMeasurementsWithLabel/testFrequentist" time="0.001363"/>
       <testcase classname="tMeasurementsWithLabel/testFrequentist" name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" time="1"/>
       <testcase classname="tMeasurementsWithLabel/testFrequentist" name="tMeasurementsWithLabel/testFrequentist" time="0.0010481"/>
@@ -1934,7 +1934,7 @@
       <testcase classname="tMeasurementsWithLabel/testFrequentist" name="tMeasurementsWithLabel/testFrequentist" time="0.0010457"/>
       <testcase classname="tMeasurementsWithLabel/testFrequentist" name="tMeasurementsWithLabel/testFrequentist &lt;logged&gt;" time="1"/>
    </testsuite>
-   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testdiff" skipped="0" tests="4" time="0.0060708" timestamp="1519986978902">
+   <testsuite errors="0" failures="0" name="tMeasurementsWithLabel/testdiff" skipped="0" tests="4" time="0.0060708" timestamp="2018-03-02T10:36:18">
       <testcase classname="tMeasurementsWithLabel/testdiff" name="tMeasurementsWithLabel/testdiff &lt;diff&gt;" time="0"/>
       <testcase classname="tMeasurementsWithLabel/testdiff" name="tMeasurementsWithLabel/testdiff &lt;diff&gt;" time="0"/>
       <testcase classname="tMeasurementsWithLabel/testdiff" name="tMeasurementsWithLabel/testdiff &lt;diff&gt;" time="0"/>
